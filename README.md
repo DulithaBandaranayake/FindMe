@@ -18,15 +18,15 @@ Your security and satisfaction are our top priorities. Choose FindMe and take co
 ## Screenshots
 
 <div style="overflow-x: auto; white-space: nowrap; display: flex;">
-    <img src="https://github.com/DulithaBandaranayake/FindMe---Secure-Phone-Locator/assets/121762938/e116996b-5617-4953-a27e-15192ba78aa1" alt="Screenshot 1" width="300px"; height="533px" display: inline-block;/>
-    <img src="https://github.com/DulithaBandaranayake/FindMe---Secure-Phone-Locator/assets/121762938/421ffd84-3e61-404d-93a5-0a777b526a82" alt="Screenshot 2" width="300px"; height="533px" display: inline-block;/>
-    <img src="https://github.com/DulithaBandaranayake/FindMe---Secure-Phone-Locator/assets/121762938/bd5a8c85-cb14-4ed4-a1c0-cbd9155a7d54" alt="Screenshot 3" width="300px"; height="533px" display: inline-block;/>
-    <img src="https://github.com/DulithaBandaranayake/FindMe---Secure-Phone-Locator/assets/121762938/92554bf0-ed6d-438e-93e4-a3a483e20983" alt="Screenshot 4" width="300px"; height="533px" display: inline-block;/>
+    <img src="" alt="Screenshot 1" width="300px"; height="533px" display: inline-block;/>
+    <img src="" alt="Screenshot 2" width="300px"; height="533px" display: inline-block;/>
+    <img src="" alt="Screenshot 3" width="300px"; height="533px" display: inline-block;/>
+    <img src="" alt="Screenshot 4" width="300px"; height="533px" display: inline-block;/>
 </div>
 
 ## Installation
 
-1. Download the APK from the [releases page](link-to-releases).
+1. Download the APK from the [releases page](https://www.amazon.com/gp/product/B0D92NGZ59).
 2. Transfer the APK to your Android device.
 3. Open the APK on your device and follow the installation instructions.
 
