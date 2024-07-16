@@ -15,13 +15,10 @@ Your security and satisfaction are our top priorities. Choose FindMe and take co
 - **Easy to Use**: FindMe boasts a simple and intuitive interface, making phone recovery a quick and hassle-free process.
 - **Developed by Dubu**: As a product of Dubu, FindMe is built on a foundation of trust and reliability, ensuring you receive a high-quality app experience.
 
-## Screenshots
+## Highlights
 
 <div style="overflow-x: auto; white-space: nowrap; display: flex;">
-    <img src="" alt="Screenshot 1" width="300px"; height="533px" display: inline-block;/>
-    <img src="" alt="Screenshot 2" width="300px"; height="533px" display: inline-block;/>
-    <img src="" alt="Screenshot 3" width="300px"; height="533px" display: inline-block;/>
-    <img src="" alt="Screenshot 4" width="300px"; height="533px" display: inline-block;/>
+    <img src="https://github.com/user-attachments/assets/91b86924-c0bf-4e21-acf9-431dc8d9ab69" alt="Screenshot 1" width="300px"; height="533px" display: inline-block;/>
 </div>
 
 ## Installation
