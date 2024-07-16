@@ -18,7 +18,7 @@ Your security and satisfaction are our top priorities. Choose FindMe and take co
 ## Highlights
 
 <div style="overflow-x: auto; white-space: nowrap; display: flex;">
-    <img src="https://github.com/user-attachments/assets/91b86924-c0bf-4e21-acf9-431dc8d9ab69" alt="Screenshot 1" width="300px"; height="533px" display: inline-block;/>
+    <img src="https://github.com/user-attachments/assets/91b86924-c0bf-4e21-acf9-431dc8d9ab69" alt="Screenshot 1" width="1280px"; height="569px" display: inline-block;/>
 </div>
 
 ## Installation
